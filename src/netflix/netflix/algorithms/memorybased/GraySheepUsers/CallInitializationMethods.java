@@ -1,4 +1,4 @@
-package netflix.algorithms.memorybased.GraySheepUsers;
+package netflix.netflix.algorithms.memorybased.GraySheepUsers;
 
 import java.util.*;
 
